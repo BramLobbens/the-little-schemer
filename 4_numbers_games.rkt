@@ -2,6 +2,8 @@
 
 ;; (4. Numbers Games)
 
+(provide eqan?)
+
 ;;=
 (define eq-num
   (lambda (n m)
